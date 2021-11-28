@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(61, 59, 59);
+}
+
+#quadro-central {
+  background-color: white;
+  margin-top: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 0px;
+  height: 300px;
+  width: 700px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+#title {
+  padding-top: 50px;
+}
+
+.ball {
+  display: inline-block;
+  border: black solid 1px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+#cores {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#reset-game {
+  border: none;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  padding: 7px 20px;
+}
+
+#rgb-color {
+  padding-bottom: 10px;
+}
